@@ -1,2 +1,2 @@
 # Java-Chat-Application
-This is a chat application developed in Java.swing. Uses UDP protocol and two main methods MyServer and MyClient 
+This is a chat application developed in Java.swing package and UDP connection. It contains two Main methods My Server & My Client. First you have to boot the server and run My Client. Many clients can be run in same system and a brodcasting system works for all user.Diffrent concepts of advanced java programming are used in this project and can be used a microproject of 5th sem Diploma TY of course IF,CO.
